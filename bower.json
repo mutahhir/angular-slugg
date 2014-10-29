@@ -1,0 +1,27 @@
+{
+  "name": "angular-slugg",
+  "main": "slugg.js",
+  "version": "0.1",
+  "homepage": "https://github.com/mutahhir/slugg",
+  "authors": [
+    "Ben Gourley <bn@grly.me>",
+    "Mutahhir Ali Hayat <mutahhir.ali@gmail.com>"
+  ],
+  "description": "Fork of bengourley/slugg to be used with AngularJS",
+  "keywords": [
+    "slug",
+    "angular"
+  ],
+  "license": "BSD",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.0"
+  }
+}
