@@ -108,6 +108,6 @@
     return function (input) {
       return Slugg.slugify(input);
     }
-  });
+  }]);
 
 }(this))
